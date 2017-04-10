@@ -1,6 +1,6 @@
 # Web MIDI Dash Button
 ## Status of the repo
-under development
+almost time to release
 
 ## What is the "Web MIDI Dash" Button?
 This product supports developers who implement web application with [Web MIDI API](https://www.w3.org/TR/webmidi/).  
