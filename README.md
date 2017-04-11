@@ -15,17 +15,17 @@ Navigator.requestMIDIAccess({sysex:true}).then( onMIDISuccess, onMIDIFailure );
 
 ## How to use the "Web MIDI Dash" Button?
 Connect the button with USB(USB type C ready!). 
-That is it!! Super easy isn't it.
+That is it!! Super easy isn't it.  
 Please note that the "Web MIDI Dash" Button behaves as "Standard 101-key or 102-key".
 
 # How to Create the "Web MIDI Dash" Button?
 ## Requirements
 - 3D Printer
 - Filament for 3D printing  (Color: Black and Yellow is the best, but not these color is not required.)
-- [Arduino Micro Pro (5V 16MHz)](https://goo.gl/apHR3n) x1
+- Arduino Micro Pro (5V 16MHz) [amazon.com](https://goo.gl/apHR3n), [amazon.co.jp](https://goo.gl/maZjMn) x1
 - USB Cable
-- [Tact Switch(6x6x4.3, Momentary)](https://goo.gl/vy2fJm) x1
-- [Swith](https://goo.gl/qqAdUp) x1
+- Tact Switch(6x6x4.3, Momentary) [amazon.com](https://goo.gl/vy2fJm), [amazon.co.jp](https://goo.gl/l6JR33) x1
+- Swith [amazon.com](https://goo.gl/qqAdUp), [amazon.co.jp](https://goo.gl/slp3yR) x1
 
 ## Print enclosure
 Download 3 STL files([Chassis](https://github.com/ryoyakawai/webmididash/blob/master/enclosure_stl/chassis_webmididash.stl), [Lower Enclosure](https://github.com/ryoyakawai/webmididash/blob/master/enclosure_stl/enclosure_lower_webmididash.stl), [Upper Enclosure](https://github.com/ryoyakawai/webmididash/blob/master/enclosure_stl/enclosure_upper_webmididash.stl)) in the [__enclosure_stl__](https://github.com/ryoyakawai/webmididash/tree/master/enclosure_stl) directory of this repo, and follow the instructions of your targetting 3D printer to print enclosure.
