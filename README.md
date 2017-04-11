@@ -22,10 +22,10 @@ Please note that the "Web MIDI Dash" Button behaves as "Standard 101-key or 102-
 ## Requirements
 - 3D Printer
 - Filament for 3D printing  (Color: Black and Yellow is the best, but not these color is not required.)
-- Arduino Micro Pro (5V 16MHz) [amazon.com](https://goo.gl/apHR3n), [amazon.co.jp](https://goo.gl/maZjMn) x1
-- USB Cable
-- Tact Switch(6x6x4.3, Momentary) [amazon.com](https://goo.gl/vy2fJm), [amazon.co.jp](https://goo.gl/l6JR33) x1
-- Swith [amazon.com](https://goo.gl/qqAdUp), [amazon.co.jp](https://goo.gl/slp3yR) x1
+- Arduino Micro Pro (5V 16MHz) [[amazon.com](https://goo.gl/apHR3n), [amazon.co.jp](https://goo.gl/maZjMn)] x1
+- USB Cable(microB-Male, A-Male) [[amazon.com](https://goo.gl/sQPI0X), [amazon.co.jp](https://goo.gl/nYfzkc)] x1
+- Tact Switch(6x6x4.3, Momentary) [[amazon.com](https://goo.gl/vy2fJm), [amazon.co.jp](https://goo.gl/l6JR33)] x1
+- Swith [[amazon.com](https://goo.gl/qqAdUp), [amazon.co.jp](https://goo.gl/slp3yR)] x1
 
 ## Print enclosure
 Download 3 STL files([Chassis](https://github.com/ryoyakawai/webmididash/blob/master/enclosure_stl/chassis_webmididash.stl), [Lower Enclosure](https://github.com/ryoyakawai/webmididash/blob/master/enclosure_stl/enclosure_lower_webmididash.stl), [Upper Enclosure](https://github.com/ryoyakawai/webmididash/blob/master/enclosure_stl/enclosure_upper_webmididash.stl)) in the [__enclosure_stl__](https://github.com/ryoyakawai/webmididash/tree/master/enclosure_stl) directory of this repo, and follow the instructions of your targetting 3D printer to print enclosure.
