@@ -276,13 +276,13 @@ a img{
   }
 
 
-.android-bring {
+.android-use {
   display: inline-block;
   width: 300px;
   margin: 60px 80px 0px 30px;
 }
 
-.android-use {
+.android-bring {
   display: inline-block;
   width: 300px;
   margin: 60px 80px 0px 0px;
